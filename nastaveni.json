@@ -1,0 +1,7 @@
+﻿{
+    "cesta_sablona":"sablona.docx",
+    "cesta_csv":"vstupni_data.csv",
+    "oddelovac_csv":";",
+    "vystup_cesta":"vystup\\",
+    "vystup_soubor_suffix":"_vygenerovano"
+}
